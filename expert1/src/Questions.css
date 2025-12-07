@@ -1,0 +1,23 @@
+.question {
+  display: flex;
+  flex-direction: column;
+}
+.card {
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 1rem;
+  align-self: center;
+}
+.sticker {
+  display: flex;
+  align-self: center;
+}
+.results {
+  display: flex;
+  flex-direction: column;
+}
+.result-item {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
